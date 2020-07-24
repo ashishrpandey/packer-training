@@ -25,7 +25,9 @@ Verify that it is working
         validate    check that a template is valid
         version     Prints the Packer version
 
-    [root@ip-172-31-46-86 ~]#
+Check the current pakcer version 
+
+      packer version 
 
 
 
